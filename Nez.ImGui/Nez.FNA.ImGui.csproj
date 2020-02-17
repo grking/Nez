@@ -10,7 +10,7 @@
 		<OutputType>Library</OutputType>
 		<RootNamespace>Nez.ImGuiTools</RootNamespace>
 		<AssemblyName>Nez.ImGui</AssemblyName>
-        <TargetFramework>netstandard3.1</TargetFramework>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
 		<AllowUnsafeBlocks>True</AllowUnsafeBlocks>
 		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
