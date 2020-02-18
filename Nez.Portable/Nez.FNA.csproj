@@ -37,8 +37,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\..\FNA\FNA.csproj">
-		</ProjectReference>
+		<ProjectReference Include="..\..\FNA\FNA.Core.csproj" />
 	</ItemGroup>
 	
 	<ItemGroup>
